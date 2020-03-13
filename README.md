@@ -130,87 +130,9 @@ Bruno Bernardi (for the original idea of the Apprentice, thank's to him I invent
 Robert Dupuis (for voice acting in several roles in the mod)
 Valeska Scholl (for giving the much needed voice's for the two female NPCs)
 MindFlayer (for creating two areas for the mod)
-Avenger and Per Olofsson (for tispack)
-Nullsoft Inc (for providing the installer maker)
-TEAM BG (for hosting both our site and forum, and forproviding the best IE editing tools in the world!)
-FORGOTTEN WARS (for taking the mod after TeamBG's death)
-
 
 A lot of areas, sounds and animations have been taken from other IE games.
 There is also one midi - file from the Super Nintendo game Final Fantasy 6.
 
-
-Websites:
-www.forgottenwars.net (the community)
-http://www.geocities.com/rotmod2003/ (website of the mod)
-http://forums.forgottenwars.net/index.php?showforum=173 (completed mods forums)
-
-
-How to contact:
-pekka_gilgamesh@hotmail.com
-or use the forum of the mod
-I'd prefer the usage of the forums.
-
 @GILGAMESH (Pekka Syrjänen)
 
-                      REGION OF TERROR README
-                                V2.0
-                      (a note from King Diamond)
-
-
-As a big lover of all that is really BIG :P I've decided to give this mod
-another chance to survive in the modern environments (you know -
-"generation Pepsi", "Greece - European Champions" and stuff...)
-
-So, here is another humble attempt not to screw anything that is supposed to work
-properly.
-
-1st, as you may already realized, a size of the mod was dramatically reduced
-from >600Mb to near 328Mb without loosing *anything*.
-
-2nd, all *technical* compatibility issues with many large mods are
-solved. You may expect flawless functionality together with BGT-WeiDU 1.00,
-CtB v1.7, TDD v1.10, SOS v1.10, TS-BP v6.04.01
-
-There *could* be some minor plot inconsistences here and there, but plz don't
-rely on that too much. ;)
-
-3rd. RoT now requires full ToB installation (sorry, no SoA-only support - we're
-delivering only the best! :D )
-
-4th. People who played the original or were involved into its development will be
-really surprized by some *audible* aspects of the mod (do you?...)
-
-5th. This version includes all original patches.
-
-
-
-
-Some installation notes:
-
- - if you want to install RoT along with TDD you can't use Kit Packs from both mods.
-   Plz choose wich one you want to install. In any case, install RoT AFTER TDD v1.10
-   (or later);
-
- - don't forget to install the latest Worldmap mod from Yacomo/Weigo (v6 or later). 
-   Local RoT's WMP just doesn't know about any other mod existance.
-
-
-
-
-Cheers,
-and stay heavy,       >:E
-               KD
-
-*******************************************************************************
-** v2.0 Credits:
-*******************************************************************************
-  Badgert and
-  Serdrick from A.E.R.I.E team (http://aerie-ru.info) - additional help
-
-  KD - WeiDU conversion, bugfixing, blah, blah, blah...
-
-*******************************************************************************
-*******************************************************************************
-*******************************************************************************
-*******************************************************************************
