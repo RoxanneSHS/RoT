@@ -29,13 +29,13 @@ LANGUAGE ~English~
          ~RoTerror/Language/English/journal.tra~
          ~RoTerror/Language/English/setup.tra~
 
-/*LANGUAGE ~Russian~
+LANGUAGE ~Russian (thanks to Serdrick)~
          ~Russian~
          ~RoTerror/Language/Russian/scripts.tra~
          ~RoTerror/Language/Russian/journal.tra~
          ~RoTerror/Language/Russian/setup.tra~
 
-LANGUAGE ~Deutch~
+/*LANGUAGE ~Deutsch~
          ~German~
          ~RoTerror/Language/German/scripts.tra~
          ~RoTerror/Language/German/journal.tra~
