@@ -83,39 +83,6 @@ THEN
 END
 
 IF
-	Global("Pipleaves","GLOBAL",2)
-THEN
-	RESPONSE #100
-		Wait(1)
-		CreateCreature("Grayfot2",[2956.1085],14) // Pip Grayfoot
-		SmallWait(1)
-		ActionOverride("Grayfot2",Face(14))
-		SetGlobal("Pipleaves","GLOBAL",3)
-END
-
-IF
-	Global("StartForgGray","RR3100",1)
-THEN
-	RESPONSE #100
-		SetGlobal("StartForgGray","RR3100",2)
-		HideGUI()
-		StartCutSceneMode()
-		StartCutScene("Grayfot3")
-//		Continue()
-END
-
-IF
-	Global("StartForgGray2","RR3100",1)
-THEN
-	RESPONSE #100
-		SetGlobal("StartForgGray2","RR3100",2)
-		HideGUI()
-		StartCutSceneMode()
-		StartCutScene("Grayfot4")
-//		Continue()
-END
-
-IF
 	Global("RuleCas","GLOBAL",1)
 	Global("EraQuest","GLOBAL",0)
 THEN

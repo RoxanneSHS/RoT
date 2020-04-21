@@ -7,7 +7,7 @@ END
 
 IF ~~ THEN BEGIN 1 // from: BRUNDOR
   SAY @1 
-  IF ~~ THEN DO ~SetGlobal("SmithApprsc","GLOBAL",1)~ EXIT
+  IF ~~ THEN DO ~EscapeArea()~ EXIT
 END
 
 IF ~~ THEN BEGIN 2 // from: BRUNDOR
