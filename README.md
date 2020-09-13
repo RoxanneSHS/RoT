@@ -1,6 +1,13 @@
 # RoTerror-EE
 
 ********************************************
+*** v 5.02 - 2020, September
+********************************************
+- include stronghold compatibility
+- Russian translation update
+- language corrections
+
+********************************************
 *** v 5.01 - 2020, April
 ********************************************
 - Fix for Bremen exit
