@@ -6,6 +6,7 @@
 - include stronghold compatibility
 - Russian translation update
 - language corrections
+- area movies correction
 
 ********************************************
 *** v 5.01 - 2020, April

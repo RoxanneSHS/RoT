@@ -2,9 +2,10 @@ IF
 	Global("CreateOss","RR3101",0)
 THEN
 	RESPONSE #100
-		CreateCreature("Brundor",[505.353],13) // Brundor
-		CreateCreature("Grayfoot",[603.293],14) // Pip Grayfoot
 		SetGlobal("CreateOss","RR3101",1)
+                CreateCreature("Brundor",[505.353],13) // Brundor
+		CreateCreature("Grayfoot",[603.293],14) // Pip Grayfoot
+		
 END
 
 IF
