@@ -1,7 +1,7 @@
 BEGIN ~REG2~
 
-IF ~!Dead("Driz2")
-!Dead("Wulfg2")
+IF ~!StateCheck("Driz2",CD_STATE_NOTVALID)
+!StateCheck("Wulfg2",CD_STATE_NOTVALID)
 InParty("Driz2")
 InParty("Wulfg2")
 NumTimesTalkedTo(0)
@@ -111,7 +111,7 @@ IF ~~ THEN BEGIN 15 // from: 21.1 11.1
   IF ~~ THEN REPLY @21 DO ~SetGlobal("ResReg","GLOBAL",1)~ GOTO 14
 END
 
-IF ~!Dead("Driz2")
+IF ~!StateCheck("Driz2",CD_STATE_NOTVALID)
 InParty("Driz2")
 !InParty("Wulfg2")
 NumTimesTalkedTo(0)
@@ -138,7 +138,7 @@ IF ~~ THEN BEGIN 19 // from: 18.0
   IF ~~ THEN EXTERN ~DRIZ2J~ 69
 END
 
-IF ~!Dead("Driz2")
+IF ~!StateCheck("Driz2",CD_STATE_NOTVALID)
 InParty("Driz2")
 !InParty("Wulfg2")
 Global("Cantcome","LOCALS",3)~ THEN BEGIN 20
@@ -146,7 +146,7 @@ Global("Cantcome","LOCALS",3)~ THEN BEGIN 20
   IF ~~ THEN GOTO 5
 END
 
-IF ~!Dead("Driz2")
+IF ~!StateCheck("Driz2",CD_STATE_NOTVALID)
 InParty("Driz2")
 !InParty("Wulfg2")
 Global("Cantcome","LOCALS",3)~ THEN BEGIN 21
