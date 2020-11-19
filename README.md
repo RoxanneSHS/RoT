@@ -5,6 +5,7 @@
 ********************************************
 - better dialogue triggers
 - Haman quest fix
+- Brynnlaw fix
 
 ********************************************
 *** v 5.02 - 2020, September
