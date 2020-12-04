@@ -1,6 +1,12 @@
 # RoTerror-EE
 
 ********************************************
+*** v 5.04 - 2020, December
+********************************************
+- Pip Greyfoot repairs
+- Eye of a God request restored to trigger by Haman
+
+********************************************
 *** v 5.03 - 2020, October
 ********************************************
 - better dialogue triggers
