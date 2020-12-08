@@ -1,0 +1,22 @@
+IF
+PartyHasItem("Holygem")
+AreaCheckObject("Ra4900",Player1)
+Delay(6)
+THEN
+RESPONSE #100
+ClearAllActions()
+Wait(1)
+StartCutSceneMode()
+Wait(1)
+ActionOverride(Player1,TakePartyItem("Holygem"))
+Wait(2)
+CreateVisualEffectObject("spwhirl",Player1)
+Wait(6)
+ActionOverride(Player1,DestroyItem("Holygem"))
+Wait(2)
+GiveItemCreate("Holyshld",Player1,1,0,0)
+Wait(1)
+CreateVisualEffectObject("SPSummon",Player1)
+Wait(6)
+EndCutSceneMode()
+END
