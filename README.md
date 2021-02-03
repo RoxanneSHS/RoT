@@ -6,6 +6,7 @@
 - Pip Greyfoot repairs
 - Eye of a God request restored to trigger by Haman
 - Eye of a God reward modified
+- Bremen logic error fixed
 
 ********************************************
 *** v 5.03 - 2020, October
