@@ -1,6 +1,12 @@
 # RoTerror-EE
 
 ********************************************
+*** v 5.05 - 2021, April
+********************************************
+- Spirit Soaring final repaired
+- RoT vs Umar inconsistency resolved
+
+********************************************
 *** v 5.04 - 2020, December
 ********************************************
 - Pip Greyfoot repairs

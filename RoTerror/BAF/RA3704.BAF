@@ -1,6 +1,5 @@
 IF
 	Global("CQuestActive","GLOBAL",12)
-	!Global("Hammermeetings","GLOBAL",9)
 	!Global("Hammermeetings","GLOBAL",10)
 	!Global("Hammermeetings","GLOBAL",11)
 	!Global("Hammermeetings","GLOBAL",12)
@@ -31,7 +30,6 @@ END
 
 IF
 	Global("CQuestActive","GLOBAL",12)
-	!Global("Hammermeetings","GLOBAL",9)
 	!Global("Hammermeetings","GLOBAL",10)
 	!Global("Hammermeetings","GLOBAL",11)
 	!Global("Hammermeetings","GLOBAL",12)
@@ -91,7 +89,7 @@ THEN
 END
 
 IF
-	Global("Hammermeetings","GLOBAL",9)
+	Global("Hammermeetings","GLOBAL",19)
 	Global("CQuestActive","GLOBAL",12)
 	Global("EnteredArea","RA3704",0)
 THEN
