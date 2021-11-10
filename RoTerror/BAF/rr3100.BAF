@@ -8,13 +8,21 @@ THEN
 END
 
 IF
-	PartyHasItem("HolyGem")
-	Global("PipMoved","RR3100",0)
+Global("Pipleaves","GLOBAL",5)
+Global("PipMoved","RR3100",0)
 THEN
 	RESPONSE #100
-		SetGlobal("YougottheEye","GLOBAL",3)
-		SetGlobal("PipMoved","RR3100",1)
-		CreateCreature("grayfot2",[1446.1044],S) 
+SetGlobal("PipMoved","RR3100",1)
+SetGlobalTimer("PipNewSmith","RR3100",ONE_DAY)
+END
+
+IF
+Global("PipMoved","RR3100",1)
+GlobalTimerExpired("PipNewSmith","RR3100")
+THEN
+	RESPONSE #100
+SetGlobal("PipMoved","RR3100",2)
+CreateCreature("grayfot2",[1446.1044],S)
 END
 
 IF

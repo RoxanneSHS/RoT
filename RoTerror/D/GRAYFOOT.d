@@ -7,7 +7,7 @@ END
 
 IF ~~ THEN BEGIN 1 // from: BRUNDOR
   SAY @1 
-  IF ~~ THEN DO ~EscapeArea()~ EXIT
+  IF ~~ THEN DO ~SetGlobal("Pipleaves","GLOBAL",5) EscapeArea()~ EXIT
 END
 
 IF ~~ THEN BEGIN 2 // from: BRUNDOR
