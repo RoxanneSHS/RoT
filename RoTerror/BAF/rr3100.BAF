@@ -8,6 +8,16 @@ THEN
 END
 
 IF
+	PartyHasItem("HolyGem")
+	Global("PipMoved","RR3100",0)
+THEN
+	RESPONSE #100
+		SetGlobal("YougottheEye","GLOBAL",3)
+		SetGlobal("PipMoved","RR3100",1)
+		CreateCreature("grayfot2",[1446.1044],S) 
+END
+
+IF
 	Global("Arlaxthief","GLOBAL",2)
 	Global("dflkjad","GLOBAL",0)
 THEN
