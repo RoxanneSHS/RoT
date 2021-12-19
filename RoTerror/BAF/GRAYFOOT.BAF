@@ -1,9 +1,32 @@
 IF
+	Global("Talkme","LOCALS",1)
+	Delay(5)
+	See(Player1)
+THEN
+	RESPONSE #100
+		SetGlobal("Talkme","LOCALS",2)
+		StartDialogNoSet(Player1)
+END
+
+IF
 	Global("Talkme","LOCALS",0)
+	AreaCheck("RR3100")
+	See(Player1)
+	!PartyHasItem("Graybook")
 THEN
 	RESPONSE #100
 		SetGlobal("Talkme","LOCALS",1)
-		StartDialogueNoSet(Player1)
-END
+		GiveItemCreate("GrayBook",Player1,0,0,0)
+Wait(1)
+		JumpToPoint([2956.1075])
+		END
 
-
+IF
+	Global("Talkme","LOCALS",0)
+	AreaCheck("RR3100")
+    PartyHasItem("Graybook")
+THEN
+	RESPONSE #100
+		SetGlobal("Talkme","LOCALS",1)
+		JumpToPoint([2956.1075])
+		END		
