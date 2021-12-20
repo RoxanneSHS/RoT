@@ -71,7 +71,7 @@ END
 
 IF ~~ THEN BEGIN 12 // from: 11.0
   SAY @26
-  IF ~~ THEN REPLY @27 DO ~SetGlobal("Morand3","LOCALS",1)~ EXIT
+  IF ~~ THEN REPLY @27 DO ~SetGlobal("Morand3","LOCALS",1)SetGlobal("Morand1","LOCALS",2)~ EXIT
   IF ~~ THEN REPLY @28 GOTO 13
 END
 
@@ -87,7 +87,7 @@ END
 
 IF ~~ THEN BEGIN 15 // from: 14.0
   SAY @31
-  IF ~~ THEN DO ~SetGlobal("Morand3","LOCALS",1)~ EXIT
+  IF ~~ THEN DO ~SetGlobal("Morand3","LOCALS",1)SetGlobal("Morand1","LOCALS",2)~ EXIT
 END
 
 IF ~~ THEN BEGIN 16 // from: 11.1
@@ -110,7 +110,7 @@ END
 
 IF ~~ THEN BEGIN 19 // from: 18.0
   SAY @40
-  IF ~~ THEN DO ~SetGlobal("Morand3","LOCALS",1)~ EXIT
+  IF ~~ THEN DO ~SetGlobal("Morand3","LOCALS",1)SetGlobal("Morand1","LOCALS",2)~ EXIT
 END
 
 IF ~~ THEN BEGIN 20 // from: 18.1
