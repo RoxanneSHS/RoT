@@ -6,6 +6,7 @@
 ********************************************
 - Pip God's Eye repair
 - Removed dialogue loops
+- updated Russian translation
 
 ********************************************
 *** v 5.05 - 2021, April
