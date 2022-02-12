@@ -1250,10 +1250,6 @@ COPY ~RoTerror/itm/NEWSCI02.itm~  ~override~
   SAY NAME2 @9
   SAY DESC @1435
 
-COPY ~RoTerror/itm/NEWSCI03.itm~  ~override~
-  SAY NAME2 @1436
-  SAY DESC @1437
-
 COPY ~RoTerror/itm/NEWSHP1.itm~   ~override~
   SAY NAME2 @1438
   SAY DESC @1439

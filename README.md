@@ -7,6 +7,7 @@
 - Pip God's Eye repair
 - Removed dialogue loops
 - updated Russian translation
+- Garrax 5 repair
 
 ********************************************
 *** v 5.05 - 2021, April
