@@ -144,7 +144,7 @@ END
 IF ~Global("Registr","GLOBAL",0)
 !Global("Ardaeffects","GLOBAL",3)
 XPLT(LastTalkedToBy(Myself),3000000)
-XPGT(LastTalkedToBy(Myself),2259999)
+XPGT(LastTalkedToBy(Myself),2249999)
 PartyGoldGT(999)~ THEN BEGIN 17
   SAY @18
   IF ~Class(Player1,FIGHTER_ALL)
