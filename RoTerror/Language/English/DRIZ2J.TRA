@@ -143,7 +143,7 @@
 @142  = ~I'm on a serious mission. Unfortunately we meet again on this kind of circumstances.~
 @143  = ~Artemis Entreri and Jarlaxle have the Crystal Shard in their posession. They captured my companions and I have been looking for them since.~
 @144  = ~Everyone else is free exept Catti-Brie. She must be freed too but as long as Entreri and Jarlaxle hold the Crystal Shard, there's no way we can defeat them.~
-@145  = ~You are the only one who can destory it. We need your help.~
+@145  = ~You are the only one who can destroy it. We need your help.~
 @146  = ~That cannot be possible. Bruenor and Regis were captured and held in the Crystal Tower for some time. They saw the Shard with their own eyes.~
 @147  = ~And why would those two want to destroy the Shard?~
 @148  = ~That's possible, but it doesn't explain how Entreri and Jarlaxle found my friends. (Drizzt tells how they were captured)~
@@ -159,7 +159,7 @@
 @158  = ~We'll do that. I promise.~
 @159  = ~Well, maybe not right away, but we'll go, I promise.~
 @160  = ~Under attack!? Who is attacking?~
-@161  = ~That's not necessarry, Bruenor. I think we know who's leading the hordes...~
+@161  = ~That's not necessary, Bruenor. I think we know who's leading the hordes...~
 @162  = ~You, go and tell Icewind Dale will soon be freed. The enemy leaders will be dead when you arrive there.~
 @163  = ~If the attacks are still continuing...send a word to the dwarves and do what you can. We can't help you anymore...~
 @164  = ~I think I know who's leading the hordes...~
@@ -174,7 +174,7 @@
 @173  = ~Don't worry, I shall battle you. You have raised my anger all this time. Never have I wished to fight you like now.~ [drizzt9]
 @174  = ~AAAAAAAH!~ [drizzt10]
 @175  = ~Where are you, Entreri?~ [drizzt2]
-@176  = ~Yes, we did. Enteri and Jarlaxle are dead, the Crystal Shard has been destoryed. Thanks for all your help, <CHARNAME>.~
+@176  = ~Yes, we did. Enteri and Jarlaxle are dead, the Crystal Shard has been destroyed. Thanks for all your help, <CHARNAME>.~
 @177  = ~Well, we'll still have to kill Irenicus.~
 @178  = ~No need to thank me, we have a deal and I won't break it.~
 @179  = ~Yes, as I promised, I will help you. Will Catti-Brie be coming with us?~
@@ -207,7 +207,7 @@
 @206  = ~That's fine with me. We'll take care of your business, <CHARNAME>, and depart for Spirit Soaring within five days.~
 @207  = ~I'd be glad to help you on this matter, my friend. Now, could you tell me what exactly happened? Brother Chaunticleer didn't give us much information, I'm afraid.~
 @208  = ~Can't you close the portal?~
-@209  = ~Of course we'll help! I couldn't just leave you here! Much is in stake, and that includes other lifes than just our own.~
+@209  = ~Of course we'll help! I couldn't just leave you here! Much is in stake, and that includes other lives than just our own.~
 @210  = ~Yes, they are dead.~
 @211  = ~I just want to say, brother Lucas, that you are a very brave person for doing this. Not all are willing to sacrifice themselves for the sake of others.~
 @212  = ~Any time, my dear friend, any time.~
@@ -245,11 +245,11 @@
 @244  = ~There just wasn't room for him. We might get him back later, though.~
 @245  = ~...Well, alright. I won't let this interfere with our quests. But let it be known that if it was up to me I'd get Bruenor back immediately.~
 @246  = ~...<CHARNAME>? Catti-Brie is my most beloved companion. Why did you send her away?~
-@247  = ~I'm really sorry but I had no choise.~
+@247  = ~I'm really sorry but I had no choice.~
 @248  = ~There just was no way to fit her into our group. I'm sorry.~
 @249  = ~...Well, alright. But know that as soon as we are done with our quests, I will rejoin with her.~
 @250  = ~...Why did you send him away?~
-@251  = ~I'm sorry, but there just wasn't any choise.~
+@251  = ~I'm sorry, but there just wasn't any choice.~
 @252  = ~There just was no way to fit him into the group.~
 @253  = ~...Alright...But as soon as we are done with our quests, I shall rejoin with him.~
 @254  = ~Why did you leave Wulfgar behind? He is my friend and a powerful ally.~
