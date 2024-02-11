@@ -1,9 +1,9 @@
 BACKUP ~RoTerror/Backup~
 
 //AUTHOR ~Gilgamesh, King Diamond (WeiDU conversion)~ NO_IF_EVAL_BUG
-SUPPORT ~http://baldursextendedworld.com/Vanilla_Forums/categories/-the-big-mods~
+SUPPORT ~https://github.com/RoxanneSHS/RoT/issues~
 
-VERSION ~v5.06~
+VERSION ~v5.07~
 
 AUTO_TRA ~RoTerror/Language/%s~
 
@@ -411,6 +411,9 @@ COPY ~RoTerror\BMP~ ~override~
 
 COMPILE EVALUATE_BUFFER ~RoTerror/D~
 
+COPY_EXISTING ~AR0509.are~ ~override~
+      WRITE_ASCII 0x94 ~AR0509~ #8
+
 EXTEND_BOTTOM  ~AR0020.BCS~  ~RoTerror/SNIP/BAF/bAR0020.BAF~
  EVALUATE_BUFFER
 EXTEND_BOTTOM  ~AR0300.BCS~  ~RoTerror/SNIP/BAF/bAR0300.BAF~
@@ -423,9 +426,8 @@ EXTEND_BOTTOM  ~AR0500.BCS~  ~RoTerror/SNIP/BAF/bAR0500.BAF~
  EVALUATE_BUFFER
 EXTEND_BOTTOM  ~AR0522.BCS~  ~RoTerror/SNIP/BAF/bAR0522.BAF~
  EVALUATE_BUFFER
-EXTEND_BOTTOM  ~AR0509.BCS~  ~RoTerror/SNIP/BAF/bAR0509.BAF~
+EXTEND_TOP  ~AR0509.BCS~  ~RoTerror/SNIP/BAF/bAR0509.BAF~
  EVALUATE_BUFFER
-
 EXTEND_BOTTOM  ~AR0602.BCS~  ~RoTerror/SNIP/BAF/bAR0602.BAF~
  EVALUATE_BUFFER
 
